@@ -56,11 +56,6 @@ namespace FLAMES_and_PERCENTAGE
                 }
             }
             return flameNum;
-            HashSet<Char> ch = new HashSet<Char>(name_3);
-            Dictionary<Char, int> data = new Dictionary<Char, int>();
-            foreach(var v in ch){
-                data.Add(v,0);
-            }
         }
 
         private string Name_Validation(string name)

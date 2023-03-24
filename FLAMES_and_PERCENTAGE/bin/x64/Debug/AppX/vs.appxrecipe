@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-24T19:47:53.019</Modified>
+      <Modified>2023-03-24T20:20:49.238</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\FLAMES_and_PERCENTAGE.exe">
       <PackagePath>entrypoint\FLAMES_and_PERCENTAGE.exe</PackagePath>
-      <Modified>2023-03-24T19:47:52.781</Modified>
+      <Modified>2023-03-24T20:20:48.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -90,11 +90,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-03-24T19:47:52.753</Modified>
+      <Modified>2023-03-24T20:20:48.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-03-24T19:47:52.753</Modified>
+      <Modified>2023-03-24T20:20:48.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\Core\FLAMES_and_PERCENTAGE.exe">
       <PackagePath>FLAMES_and_PERCENTAGE.exe</PackagePath>
-      <Modified>2023-03-24T19:47:53.018</Modified>
+      <Modified>2023-03-24T20:20:49.232</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
