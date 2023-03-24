@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="FLAMES_and_PERCENTAGE.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FLAMES_and_PERCENTAGE"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBox x:Name="Txt_Name_1" HorizontalAlignment="Left" Margin="55,55,0,0" TextWrapping="Wrap" Text="ROMEO" VerticalAlignment="Top" Height="76" Width="329" FontSize="48"/>
+        <TextBox x:Name="Txt_Name_2" HorizontalAlignment="Left" Margin="617,55,0,0" TextWrapping="Wrap" Text="JULIET" VerticalAlignment="Top" Height="76" Width="329" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="404,55,0,0" TextWrapping="Wrap" Text="FLAMES" VerticalAlignment="Top" Height="76" Width="189" FontWeight="Bold" FontSize="48"/>
+        <Button x:Name="Btn_Calculate" Content="CALCULATE" Margin="970,55,0,0" VerticalAlignment="Top" Height="76" Width="281" FontWeight="Bold" FontSize="24" Click="Btn_Calculate_Click"/>
+        <TextBox x:Name="Txt_FLAMES" HorizontalAlignment="Left" Margin="389,148,0,0" TextWrapping="Wrap" Text="RESULT" VerticalAlignment="Top" Height="76" Width="213" FontSize="48"/>
+
+    </Grid>
+</Page>
