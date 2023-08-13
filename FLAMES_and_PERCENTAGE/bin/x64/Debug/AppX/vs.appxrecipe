@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>BLACKBOX</Machine>
-    <WindowsUser>Rajan</WindowsUser>
+    <Machine>DELL-NEW</Machine>
+    <WindowsUser>jraja</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>ed5539dd-ff31-4051-b5d1-5457ac3bcf49</PackageIdentityName>
     <PackageIdentityPublisher>CN=Rajan</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>8BE7624FF2D6EBDDB7903D8339E85FB93EFB6FE8946A0D60AD3AE0D475D5DE4C</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>0BBF7CCD0FCDF556AB2238D8E43E48960238B24FF518017B604A04BE05916685</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>ed5539dd-ff31-4051-b5d1-5457ac3bcf49_1.0.0.0_x64__qbdn314zs8aaj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>ed5539dd-ff31-4051-b5d1-5457ac3bcf49_qbdn314zs8aaj!App</RegisteredUserModeAppID>
     <RegisteredPackageID>ed5539dd-ff31-4051-b5d1-5457ac3bcf49</RegisteredPackageID>
@@ -27,86 +27,86 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-24T20:20:49.238</Modified>
+      <Modified>2023-08-13T18:25:37.937</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\FLAMES_and_PERCENTAGE.exe">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\FLAMES_and_PERCENTAGE.exe">
       <PackagePath>entrypoint\FLAMES_and_PERCENTAGE.exe</PackagePath>
-      <Modified>2023-03-24T20:20:48.830</Modified>
+      <Modified>2023-08-13T18:25:35.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
-      <Modified>2022-06-10T22:23:28.000</Modified>
+      <Modified>2022-06-10T16:53:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
-      <Modified>2022-10-19T14:28:50.000</Modified>
+      <Modified>2023-05-11T18:24:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2023-03-24T17:22:06.781</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2023-02-28T23:31:51.581</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-28T23:31:51.582</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-28T23:31:51.582</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-28T23:31:51.582</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-28T23:31:51.582</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-28T23:31:51.583</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-28T23:31:51.583</Modified>
+      <Modified>2023-08-02T08:20:26.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\FLAMES_and_PERCENTAGE.xr.xml">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\FLAMES_and_PERCENTAGE.xr.xml">
       <PackagePath>FLAMES_and_PERCENTAGE.xr.xml</PackagePath>
-      <Modified>2023-03-24T19:08:36.293</Modified>
+      <Modified>2023-08-02T08:20:26.411</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-03-24T20:20:48.795</Modified>
+      <Modified>2023-08-13T18:25:35.781</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-03-24T20:20:48.795</Modified>
+      <Modified>2023-08-13T18:25:35.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2022-10-19T18:05:02.000</Modified>
+      <Modified>2023-05-11T21:08:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-24T19:08:36.555</Modified>
+      <Modified>2023-08-13T18:25:36.500</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\Core\FLAMES_and_PERCENTAGE.exe">
+    <AppxPackagedFile Include="C:\Users\jraja\Documents\GitHub\FLAMES_and_PERCENTAGE\FLAMES_and_PERCENTAGE\bin\x64\Debug\Core\FLAMES_and_PERCENTAGE.exe">
       <PackagePath>FLAMES_and_PERCENTAGE.exe</PackagePath>
-      <Modified>2023-03-24T20:20:49.232</Modified>
+      <Modified>2023-08-13T18:25:37.921</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
